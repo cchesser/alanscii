@@ -1,11 +1,3 @@
-alanscii
-========
-
-This repository hosts a variety of languages which I have played with to do a trivial task of printing ASCII art that represents one of the mascots of [engineering.cerner.com](http://engineering.cerner.com/).
-
-### ASCII example
-
-```
                       .l: .cl. 'l:  :l. cl.
                     .lollddllddoldxlcdkxookc
                   .lkkl,;oo,,ld:,:do,;dd;:Kk      ,,,,,,,,.
@@ -34,7 +26,3 @@ This repository hosts a variety of languages which I have played with to do a tr
              .oloo:::::ckx;'   .0Kc::::::c0d
              'XKOOOOOOOd'.     .0XOkkkkkkOXx
        .''''';lllllllllc''''''',lllllllllll;
-```
-
-### Languages
-* [Go](https://golang.org/) - [art.go](go/art.go)
