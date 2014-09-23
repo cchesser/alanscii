@@ -1,10 +1,10 @@
 alanscii
 ========
 
-This repository hosts a variety of languages which I have played with to do a trivial task of printing ASCII art that represents one of the mascots of [engineering.cerner.com](http://engineering.cerner.com/).
+This repository hosts a variety of languages which I have played with to do a trivial task of printing ASCII art that represents one of the mascots at [Cerner Engineering](http://engineering.cerner.com/).
 
 ### ASCII example
-
+This ASCII representation is a cartoon mascot at [Cerner Engineering](http://engineering.cerner.com/), which is [Alan Turing](http://en.wikipedia.org/wiki/Alan_Turing).
 ```
                       .l: .cl. 'l:  :l. cl.
                     .lollddllddoldxlcdkxookc
@@ -37,7 +37,8 @@ This repository hosts a variety of languages which I have played with to do a tr
 ```
 
 ### Languages
-* [Go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
-* [Ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
+* [go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
+* [ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
 * [node.js](http://nodejs.org/) - [art.js](node/art.js) (`node art.js`)
 * [bash](https://www.gnu.org/software/bash/manual/) - [art.sh](bash/art.sh) (`bash art.sh`)
+* [python](https://docs.python.org/3/) - [art.py](python/art.py) (`python art.py`)
