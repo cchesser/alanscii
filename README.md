@@ -40,3 +40,4 @@ This repository hosts a variety of languages which I have played with to do a tr
 * [Go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
 * [Ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
 * [node.js](http://nodejs.org/) - [art.js](node/art.js) (`node art.js`)
+* [bash](https://www.gnu.org/software/bash/manual/) - [art.sh](bash/art.sh) (`bash art.sh`)
