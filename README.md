@@ -37,4 +37,5 @@ This repository hosts a variety of languages which I have played with to do a tr
 ```
 
 ### Languages
-* [Go](https://golang.org/) - [art.go](go/art.go)
+* [Go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
+* [Ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
