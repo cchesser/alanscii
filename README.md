@@ -47,3 +47,4 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [lua](http://www.lua.org/) - [art.lua](lua/art.lua) (`lua art.lua`)
 * [clojure](http://clojure.org/) - [art.clj](clojure/art.clj) (`java -cp clojure.jar clojure.main art.clj`)
 * [r](http://www.r-project.org/) - [art.r](r/art.r) (`Rscript art.r`)
+* [d](http://dlang.org/) - [art.d](d/art.d) (`rdmd art.d`)
