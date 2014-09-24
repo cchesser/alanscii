@@ -45,3 +45,4 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [bash](https://www.gnu.org/software/bash/manual/) - [art.sh](bash/art.sh) (`bash art.sh`)
 * [python](https://docs.python.org/3/) - [art.py](python/art.py) (`python art.py`)
 * [lua](http://www.lua.org/) - [art.lua](lua/art.lua) (`lua art.lua`)
+* [clojure](http://clojure.org/) - [art.clj](clojure/art.clj) (`java -cp clojure.jar clojure.main art.clj`)
