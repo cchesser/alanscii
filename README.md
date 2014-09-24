@@ -6,12 +6,14 @@ This repository hosts a variety of languages which I have played with to do a tr
 ### ASCII example
 This ASCII representation is a cartoon mascot at [Cerner Engineering](http://engineering.cerner.com/), which is [Alan Turing](http://en.wikipedia.org/wiki/Alan_Turing).
 ```
-                      .l: .cl. 'l:  :l. cl.
-                    .lollddllddoldxlcdkxookc
-                  .lkkl,;oo,,ld:,:do,;dd;:Kk      ,,,,,,,,.
-                  ,XXc,,,;,,,,;,,,;,,,;;,:Kk     ,XKOO0OKX:
-                .,ckk:,,,,,,,,,,,,,,,,,,,:Kk     ,X0ddddkX:
-                oXk,,,,,,,,,,,,,,,,,,,,,,;kd'.   ;X0ddddOX:
+                                                        ___ 
+                                                       | __)
+                       .l: .cl. 'l:  :l. cl.     ____  |__ \   
+                    .lollddllddoldxlcdkxookc    (___ \ (___/
+                  .lkkl,;oo,,ld:,:do,;dd;:Kk      __) )
+                  ,XXc,,,;,,,,;,,,;,,,;;,:Kk     / __/ 
+                .,ckk:,,,,,,,,,,,,,,,,,,,:Kk    | |___ 
+                oXk,,,,,,,,,,,,,,,,,,,,,,;kd'.  |_____) 
                 oXk,,,,,,,,,,,,,,,,,,,,,,,,:K0. kK00000X0k,
                 oXk,,,,,,,,,,,,,,,,,,,,,,,,:K0. OO::::dXo
             cOOkKXO;,,,,,,:::;''''''::::'''cX0. OO::::dXo
@@ -42,3 +44,4 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [node.js](http://nodejs.org/) - [art.js](node/art.js) (`node art.js`)
 * [bash](https://www.gnu.org/software/bash/manual/) - [art.sh](bash/art.sh) (`bash art.sh`)
 * [python](https://docs.python.org/3/) - [art.py](python/art.py) (`python art.py`)
+* [lua](http://www.lua.org/) - [art.lua](lua/art.lua) (`lua art.lua`)
