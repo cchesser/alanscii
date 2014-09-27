@@ -39,12 +39,14 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 ```
 
 ### Languages
-* [go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
-* [ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
-* [node.js](http://nodejs.org/) - [art.js](node/art.js) (`node art.js`)
 * [bash](https://www.gnu.org/software/bash/manual/) - [art.sh](bash/art.sh) (`bash art.sh`)
-* [python](https://docs.python.org/3/) - [art.py](python/art.py) (`python art.py`)
-* [lua](http://www.lua.org/) - [art.lua](lua/art.lua) (`lua art.lua`)
 * [clojure](http://clojure.org/) - [art.clj](clojure/art.clj) (`java -cp clojure.jar clojure.main art.clj`)
-* [r](http://www.r-project.org/) - [art.r](r/art.r) (`Rscript art.r`)
 * [d](http://dlang.org/) - [art.d](d/art.d) (`rdmd art.d`)
+* [dart](https://www.dartlang.org/) - [art.dart](dart/art.dart) (`dart art.dart`)
+* [go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
+* [lua](http://www.lua.org/) - [art.lua](lua/art.lua) (`lua art.lua`)
+* [ocaml](https://ocaml.org) - [art.ml](ocaml/art.ml) (`ocaml art.ml`)
+* [node.js](http://nodejs.org/) - [art.js](node/art.js) (`node art.js`)
+* [python](https://docs.python.org/3/) - [art.py](python/art.py) (`python art.py`)
+* [r](http://www.r-project.org/) - [art.r](r/art.r) (`Rscript art.r`)
+* [ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
