@@ -43,6 +43,7 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [clojure](http://clojure.org/) - [art.clj](clojure/art.clj) (`java -cp clojure.jar clojure.main art.clj`)
 * [d](http://dlang.org/) - [art.d](d/art.d) (`rdmd art.d`)
 * [dart](https://www.dartlang.org/) - [art.dart](dart/art.dart) (`dart art.dart`)
+* [erlang](http://www.erlang.org/) - [art.erl](erlang/art.erl) (`erl -pa ./art.erl -run art print -run init stop -noshell`)
 * [go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
 * [lua](http://www.lua.org/) - [art.lua](lua/art.lua) (`lua art.lua`)
 * [ocaml](https://ocaml.org) - [art.ml](ocaml/art.ml) (`ocaml art.ml`)
