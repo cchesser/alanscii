@@ -46,6 +46,7 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [elixir](http://elixir-lang.org/) - [art.exs](elixir/art.exs) (`elixir art.exs`)
 * [erlang](http://www.erlang.org/) - [art.erl](erlang/art.erl) (`erl -pa ./art.erl -run art print -run init stop -noshell`)
 * [go](https://golang.org/) - [art.go](go/art.go) (`go run art.go`)
+* [groovy](http://groovy.codehaus.org/) - [art.groovy](groovy/art.groovy) (`groovy art.groovy`)
 * [haskell](http://www.haskell.org/haskellwiki/Haskell) - [art.hs](haskell/art.hs) (`runhaskell art.hs`)
 * [haxe](http://haxe.org/) - [Art.hx](haxe/Art.hx) (`haxe -main Art --interp`)
 * [julia](http://julialang.org/) - [art.jl](julia/art.jl) (`julia art.jl`)
