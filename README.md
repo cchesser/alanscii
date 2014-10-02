@@ -41,6 +41,7 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 ### Languages
 * [bash](https://www.gnu.org/software/bash/manual/) - [art.sh](bash/art.sh) (`bash art.sh`)
 * [clojure](http://clojure.org/) - [art.clj](clojure/art.clj) (`java -cp clojure.jar clojure.main art.clj`)
+* [coffeescript](http://coffeescript.org/) - [art.coffee](coffeescript/art.coffee) (`coffee art.coffee`)
 * [d](http://dlang.org/) - [art.d](d/art.d) (`rdmd art.d`)
 * [dart](https://www.dartlang.org/) - [art.dart](dart/art.dart) (`dart art.dart`)
 * [elixir](http://elixir-lang.org/) - [art.exs](elixir/art.exs) (`elixir art.exs`)
@@ -55,4 +56,6 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [node.js](http://nodejs.org/) - [art.js](node/art.js) (`node art.js`)
 * [python](https://docs.python.org/3/) - [art.py](python/art.py) (`python art.py`)
 * [r](http://www.r-project.org/) - [art.r](r/art.r) (`Rscript art.r`)
+* [rebol](http://www.rebol.com/) - [art.r](rebol/art.r) (`rebol art.r`)
 * [ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
+* [rust](http://www.rust-lang.org/) - [art.rs](rust/art.rs) (`rustc art.rs && ./art`)
