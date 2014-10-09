@@ -1,0 +1,10 @@
+.libs
+*.out
+*.jar
+rock_tmp
+*.class
+*.beam
+erl_crash.dump
+Info.plist
+Resources
+**/art

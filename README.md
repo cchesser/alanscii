@@ -42,6 +42,7 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [bash](https://www.gnu.org/software/bash/manual/) - [art.sh](bash/art.sh) (`bash art.sh`)
 * [clojure](http://clojure.org/) - [art.clj](clojure/art.clj) (`java -cp clojure.jar clojure.main art.clj`)
 * [c](http://en.wikipedia.org/wiki/C_(programming_language)) - [art.c](c/art.c) (`gcc art.c -o art && ./art`)
+* [c++](http://en.wikipedia.org/wiki/C%2B%2B) - [art.cpp](cpp/art.cpp) (`g++ art.cpp -o art && ./art`)
 * [coffeescript](http://coffeescript.org/) - [art.coffee](coffeescript/art.coffee) (`coffee art.coffee`)
 * [d](http://dlang.org/) - [art.d](d/art.d) (`rdmd art.d`)
 * [dart](https://www.dartlang.org/) - [art.dart](dart/art.dart) (`dart art.dart`)
