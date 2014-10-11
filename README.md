@@ -65,3 +65,4 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [ruby](https://www.ruby-lang.org/en/) - [art.rb](ruby/art.rb) (`ruby art.rb`)
 * [rust](http://www.rust-lang.org/) - [art.rs](rust/art.rs) (`rustc art.rs && ./art`)
 * [scala](http://www.scala-lang.org/) - [Art.scala](scala/Art.scala) (`scalac Art.scala && scala Art`)
+* [tcl](https://www.tcl.tk/) - [art.tcl](tcl/art.tcl) (`tclsh art.tcl`)
