@@ -59,6 +59,7 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [ooc](http://ooc-lang.org/) - [art.ooc](ooc/art.ooc) (`rock art.ooc && ./art`)
 * [nickle](http://www.nickle.org/) - [art.nickle](nickle/art.nickle) (`nickle art.nickle`)
 * [node.js](http://nodejs.org/) - [art.js](node/art.js) (`node art.js`)
+* [pascal](http://freepascal.org/) - [art.pp](pascal/art.pp) (`fpc art.pp && ./art`)
 * [perl](https://www.perl.org/) - [art.pl](perl/art.pl) (`perl art.pl`)
 * [php](http://php.net/) - [art.php](php/art.php) (`php art.php`)
 * [python](https://docs.python.org/3/) - [art.py](python/art.py) (`python art.py`)
