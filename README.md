@@ -54,6 +54,7 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [haxe](http://haxe.org/) - [Art.hx](haxe/Art.hx) (`haxe -main Art --interp`)
 * [julia](http://julialang.org/) - [art.jl](julia/art.jl) (`julia art.jl`)
 * [lua](http://www.lua.org/) - [art.lua](lua/art.lua) (`lua art.lua`)
+* [mirah](http://www.mirah.org/) - [art.mirah](mirah/art.mirah) (`mirah art.mirah`)
 * [objective-c](http://en.wikipedia.org/wiki/Objective-C) - [art.m](objectivec/art.m) (`clang -fobjc-arc art.m -o art && ./art`)
 * [ocaml](https://ocaml.org) - [art.ml](ocaml/art.ml) (`ocaml art.ml`)
 * [ooc](http://ooc-lang.org/) - [art.ooc](ooc/art.ooc) (`rock art.ooc && ./art`)
