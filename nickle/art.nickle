@@ -1,0 +1,12 @@
+// "2 to the 5th" programming competition @ engineering.cerner.com
+// 
+// Read in the ASCII art file and simply print it to the console. 
+// Note: This assumes you are executing "nickle art.nickle" in the 
+// current working directory.
+//
+// Reference: http://www.nickle.org/tutorial/c856.html#AEN863
+//
+file f = File::open ("../art/alan.txt", "r");
+do 
+   printf ("%s\n", File::fgets (f));
+while (!File::end (f));
