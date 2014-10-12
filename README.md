@@ -67,3 +67,4 @@ This ASCII representation is a cartoon mascot at [Cerner Engineering](http://eng
 * [rust](http://www.rust-lang.org/) - [art.rs](rust/art.rs) (`rustc art.rs && ./art`)
 * [scala](http://www.scala-lang.org/) - [Art.scala](scala/Art.scala) (`scalac Art.scala && scala Art`)
 * [tcl](https://www.tcl.tk/) - [art.tcl](tcl/art.tcl) (`tclsh art.tcl`)
+* [vala](https://wiki.gnome.org/Projects/Vala) - [art.vala](vala/art.vala) (`valac art.vala && ./art`)
